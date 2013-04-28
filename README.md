@@ -1,6 +1,6 @@
 # QUANTAL64
 
-Veewee Repo for building a Ubuntu 12.10 Server (Quantal) 64-bit Box.
+Veewee Repo for building a Ubuntu 12.10 Server (Quantal) 64-bit Vagrant Base Box.
 
 # REQUIREMENTS
 
